@@ -1,3 +1,4 @@
 sylius:
   ui:
     view_your_store: 'Vea su tienda'
+    search_products: 'Buscar Productos'
