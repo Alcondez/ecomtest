@@ -2,7 +2,6 @@
 # (c) Paweł Jędrzejewski
 
 imports:
-    - { resource: parameters_production.php }
     - { resource: "config.yml" }
 
 monolog:
